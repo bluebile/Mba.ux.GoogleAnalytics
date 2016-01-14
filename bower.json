@@ -1,0 +1,33 @@
+{
+    "name": "Mba.ux.GoogleAnalytics",
+    "version": "0.0.1",
+    "homepage": "https://github.com/bluebile/Mba.ux.GoogleAnalytics",
+    "authors": [
+        "Bluebile <info@bluebile.com>"
+    ],
+    "description": "Integração com Google Analytics",
+    "main": [
+        "GALocalStorage.js"
+    ],
+    "keywords": [
+        "senchatouch",
+        "extjs",
+        "ux",
+        "GoogleAnalytics"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "demo",
+        "ux",
+        "**/*.*~",
+        "Gruntfile.js",
+        "bower.json",
+        "package.json",
+        "test",
+        "tests"
+    ],
+    "requires": "Mba.ux.GoogleAnalytics.*"
+}
